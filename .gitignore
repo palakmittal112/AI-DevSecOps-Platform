@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+
+# =====================
+# Global
+# =====================
+.env
+.env.*
+node_modules/
+dist/
+coverage/
+logs/
+*.log
+
+# =====================
+# Frontend
+# =====================
+frontend/src/environments/environment.ts
+
+# =====================
+# Backend
+# =====================
+backend/.env
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
